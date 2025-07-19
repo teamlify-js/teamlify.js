@@ -1,0 +1,16 @@
+{
+  "name": "teamlify.js",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [],
+  "author": "Kayega",
+  "license": "MIT",
+  "description": "A project to enhance team collaboration and productivity",
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
