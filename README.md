@@ -2,24 +2,6 @@
 It is a powerful [Node.js](https://nodejs.org/en) module that allows you to easily interact with the [Teamly API](https://docs.teamly.one/).
 Module supports every events, schemas on API
 
-✅ Channels
-✅ Categories
-✅ Messages
-✅ Message Embeds
-✅ Teams
-✅ Roles
-✅ Users
-✅ Presence
-✅ Typing
-⏳ Webhooks
-❌ Todos
-❌ Direct Messages
-❌ Applications
-❌ Reactions
-❌ Blog
-❌ Announcements
-
-
 ## Examples
 ```js
 import { Client, Events, MessageBuilder, MessageEmbed, Presence } from "teamlify.js";
@@ -74,3 +56,38 @@ client.on(Events.ERROR, (error) => {
 
 client.login("tly_0139e37bfcd4f3cd.mcuu4yuf.s3sx07kqthnliggo.1v6");
 ```
+
+## Progress
+
+
+✅ Channels
+
+✅ Categories
+
+✅ Messages
+
+✅ Message Embeds
+
+✅ Teams
+
+✅ Roles
+
+✅ Users
+
+✅ Presence
+
+✅ Typing
+
+⏳ Webhooks
+
+❌ Todos
+
+❌ Direct Messages
+
+❌ Applications
+
+❌ Reactions
+
+❌ Blog
+
+❌ Announcements
